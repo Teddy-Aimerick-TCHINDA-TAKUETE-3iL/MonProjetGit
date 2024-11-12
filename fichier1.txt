@@ -1,1 +1,1 @@
-Fichier fichier1.txt
+Fichier texte fichier1.txt
