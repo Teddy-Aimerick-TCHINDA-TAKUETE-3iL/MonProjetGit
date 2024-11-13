@@ -1,1 +1,3 @@
 Fichier fichier2.txt
+Ajout d'une amelioration
+Nouvelle amelioration
