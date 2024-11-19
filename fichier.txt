@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Contenu initial.
 Amélioration du contenu.
+=======
+Contenue initial.
+>>>>>>> 997135ebe1f4faddb176bf03afcabb6d5c9ea8b0
